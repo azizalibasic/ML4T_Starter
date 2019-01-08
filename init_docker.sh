@@ -1,0 +1,1 @@
+docker build . -t ml4t:latest
