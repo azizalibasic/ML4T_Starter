@@ -1,0 +1,1 @@
+eval docker-compose run --service-ports --rm ml4t-jup
